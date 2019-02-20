@@ -1,0 +1,7 @@
+db.sqlite3
+*.pyc
+.idea/*
+reactDjango/local_settings.py
+jsons/
+media/*
+static/*
